@@ -1,2 +1,3 @@
 Name : krishnasamy
 Course : Genai
+skills : python, sql
